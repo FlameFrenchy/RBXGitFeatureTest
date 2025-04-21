@@ -1,0 +1,12 @@
+{
+    Shape = "Ball",
+    Material = "Neon,
+    Transparency = 0,
+    Reflectance = 0,
+    CastShadow = false,
+    Locked = true,
+    Archivable = true,
+    CanCollide = true,
+    Anchored = true,
+    CanTouch = true,
+}
